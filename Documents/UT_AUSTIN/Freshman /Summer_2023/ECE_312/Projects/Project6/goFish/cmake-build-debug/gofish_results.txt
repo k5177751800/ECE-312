@@ -1,0 +1,380 @@
+
+Joe's Hand: Kc 7h 7s As 2s 3d Ks 
+
+Jane's Hand: 5d 6h 8s Qc Ac Qd 8c 
+
+Jane asks for 8
+Go fish! Jane draws Qh
+
+Joe's Hand: Kc 7h 7s As 2s 3d Ks 
+
+Jane's Hand: 5d 6h Ac Qh 
+
+Joe asks for K
+Go fish! Joe draws Qs
+
+Joe's Hand: As 2s 3d Qs 
+
+Jane's Hand: 5d 6h Ac Qh 
+
+Jane asks for Q
+Joe gives Jane Qs
+Jane books Qh and Qs
+
+Joe's Hand: As 2s 3d 
+
+Jane's Hand: 5d 6h Ac 
+
+Joe asks for A
+Jane gives Joe Ac
+Joe books As and Ac
+
+Joe's Hand: 2s 3d 
+
+Jane's Hand: 5d 6h 
+
+Jane asks for 5
+Go fish! Jane draws 7c
+
+Joe's Hand: 2s 3d 
+
+Jane's Hand: 5d 6h 7c 
+
+Joe asks for 3
+Go fish! Joe draws 10d
+
+Joe's Hand: 2s 3d 10d 
+
+Jane's Hand: 5d 6h 7c 
+
+Jane asks for 6
+Go fish! Jane draws 8d
+
+Joe's Hand: 2s 3d 10d 
+
+Jane's Hand: 5d 6h 7c 8d 
+
+Joe asks for 3
+Go fish! Joe draws 4d
+
+Joe's Hand: 2s 3d 10d 4d 
+
+Jane's Hand: 5d 6h 7c 8d 
+
+Jane asks for 7
+Go fish! Jane draws 10s
+
+Joe's Hand: 2s 3d 10d 4d 
+
+Jane's Hand: 5d 6h 7c 8d 10s 
+
+Joe asks for 2
+Go fish! Joe draws 5h
+
+Joe's Hand: 2s 3d 10d 4d 5h 
+
+Jane's Hand: 5d 6h 7c 8d 10s 
+
+Jane asks for 8
+Go fish! Jane draws 7d
+
+Joe's Hand: 2s 3d 10d 4d 5h 
+
+Jane's Hand: 5d 6h 8d 10s 
+
+Joe asks for 4
+Go fish! Joe draws Jd
+
+Joe's Hand: 2s 3d 10d 4d 5h Jd 
+
+Jane's Hand: 5d 6h 8d 10s 
+
+Jane asks for 8
+Go fish! Jane draws 3s
+
+Joe's Hand: 2s 3d 10d 4d 5h Jd 
+
+Jane's Hand: 5d 6h 8d 10s 3s 
+
+Joe asks for 2
+Go fish! Joe draws Jh
+
+Joe's Hand: 2s 3d 10d 4d 5h 
+
+Jane's Hand: 5d 6h 8d 10s 3s 
+
+Jane asks for 3
+Joe gives Jane 3d
+Jane books 3s and 3d
+
+Joe's Hand: 2s 10d 4d 5h 
+
+Jane's Hand: 5d 6h 8d 10s 
+
+Joe asks for 4
+Go fish! Joe draws 5s
+
+Joe's Hand: 2s 10d 4d 
+
+Jane's Hand: 5d 6h 8d 10s 
+
+Jane asks for 10
+Joe gives Jane 10d
+Jane books 10s and 10d
+
+Joe's Hand: 2s 4d 
+
+Jane's Hand: 5d 6h 8d 
+
+Joe asks for 4
+Go fish! Joe draws 9c
+
+Joe's Hand: 2s 4d 9c 
+
+Jane's Hand: 5d 6h 8d 
+
+Jane asks for 8
+Go fish! Jane draws 3h
+
+Joe's Hand: 2s 4d 9c 
+
+Jane's Hand: 5d 6h 8d 3h 
+
+Joe asks for 2
+Go fish! Joe draws 4c
+
+Joe's Hand: 2s 9c 
+
+Jane's Hand: 5d 6h 8d 3h 
+
+Jane asks for 6
+Go fish! Jane draws 2d
+
+Joe's Hand: 2s 9c 
+
+Jane's Hand: 5d 6h 8d 3h 2d 
+
+Joe asks for 9
+Go fish! Joe draws 6s
+
+Joe's Hand: 2s 9c 6s 
+
+Jane's Hand: 5d 6h 8d 3h 2d 
+
+Jane asks for 8
+Go fish! Jane draws Js
+
+Joe's Hand: 2s 9c 6s 
+
+Jane's Hand: 5d 6h 8d 3h 2d Js 
+
+Joe asks for 6
+Jane gives Joe 6h
+Joe books 6s and 6h
+
+Joe's Hand: 2s 9c 
+
+Jane's Hand: 5d 8d 3h 2d Js 
+
+Jane asks for 3
+Go fish! Jane draws 9h
+
+Joe's Hand: 2s 9c 
+
+Jane's Hand: 5d 8d 3h 2d Js 9h 
+
+Joe asks for 2
+Jane gives Joe 2d
+Joe books 2s and 2d
+
+Joe's Hand: 9c 
+
+Jane's Hand: 5d 8d 3h Js 9h 
+
+Jane asks for 5
+Go fish! Jane draws 10h
+
+Joe's Hand: 9c 
+
+Jane's Hand: 5d 8d 3h Js 9h 10h 
+
+Joe asks for 9
+Jane gives Joe 9h
+Joe books 9c and 9h
+
+Joe's Hand: 
+
+Jane's Hand: 5d 8d 3h Js 10h 
+
+Jane asks for 10
+Go fish! Jane draws Kd
+
+Joe's Hand: 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 
+
+Joe draws 4s
+
+Joe's Hand: 4s 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 
+
+Jane asks for 3
+Go fish! Jane draws 6d
+
+Joe's Hand: 4s 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 6d 
+
+Joe asks for 4
+Go fish! Joe draws Ah
+
+Joe's Hand: 4s Ah 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 6d 
+
+Jane asks for K
+Go fish! Jane draws 4h
+
+Joe's Hand: 4s Ah 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 6d 4h 
+
+Joe asks for 4
+Jane gives Joe 4h
+Joe books 4s and 4h
+
+Joe's Hand: Ah 
+
+Jane's Hand: 5d 8d 3h Js 10h Kd 6d 
+
+Jane asks for 3
+Go fish! Jane draws 8h
+
+Joe's Hand: Ah 
+
+Jane's Hand: 5d 3h Js 10h Kd 6d 
+
+Joe asks for A
+Go fish! Joe draws Jc
+
+Joe's Hand: Ah Jc 
+
+Jane's Hand: 5d 3h Js 10h Kd 6d 
+
+Jane asks for J
+Joe gives Jane Jc
+Jane books Js and Jc
+
+Joe's Hand: Ah 
+
+Jane's Hand: 5d 3h 10h Kd 6d 
+
+Joe asks for A
+Go fish! Joe draws Kh
+
+Joe's Hand: Ah Kh 
+
+Jane's Hand: 5d 3h 10h Kd 6d 
+
+Jane asks for 6
+Go fish! Jane draws 5c
+
+Joe's Hand: Ah Kh 
+
+Jane's Hand: 3h 10h Kd 6d 
+
+Joe asks for A
+Go fish! Joe draws 9d
+
+Joe's Hand: Ah Kh 9d 
+
+Jane's Hand: 3h 10h Kd 6d 
+
+Jane asks for 10
+Go fish! Jane draws Ad
+
+Joe's Hand: Ah Kh 9d 
+
+Jane's Hand: 3h 10h Kd 6d Ad 
+
+Joe asks for K
+Jane gives Joe Kd
+Joe books Kh and Kd
+
+Joe's Hand: Ah 9d 
+
+Jane's Hand: 3h 10h 6d Ad 
+
+Jane asks for 6
+Go fish! Jane draws 2h
+
+Joe's Hand: Ah 9d 
+
+Jane's Hand: 3h 10h 6d Ad 2h 
+
+Joe asks for 9
+Go fish! Joe draws 9s
+
+Joe's Hand: Ah 
+
+Jane's Hand: 3h 10h 6d Ad 2h 
+
+Jane asks for 2
+Go fish! Jane draws 2c
+
+Joe's Hand: Ah 
+
+Jane's Hand: 3h 10h 6d Ad 
+
+Joe asks for A
+Jane gives Joe Ad
+Joe books Ah and Ad
+
+Joe's Hand: 
+
+Jane's Hand: 3h 10h 6d 
+
+Jane asks for 10
+Go fish! Jane draws 3c
+
+Joe's Hand: 
+
+Jane's Hand: 10h 6d 
+
+Joe draws 10c
+
+Joe's Hand: 10c 
+
+Jane's Hand: 10h 6d 
+
+Jane asks for 10
+Joe gives Jane 10c
+Jane books 10h and 10c
+
+Joe's Hand: 
+
+Jane's Hand: 6d 
+
+Joe draws 6c
+
+Joe's Hand: 6c 
+
+Jane's Hand: 6d 
+
+Jane asks for 6
+Joe gives Jane 6c
+Jane books 6d and 6c
+
+Joe's Hand: 
+
+Jane's Hand: 
+
+
+Joe's Hand: 
+Joe's Books: Kc Ks 7h 7s As Ac Jd Jh 5h 5s 4d 4c 6s 6h 2s 2d 9c 9h 4s 4h Kh Kd 9d 9s Ah Ad 
+Total Book Cards for Joe: 13
+Jane's Hand: 
+Jane's Books: 8s 8c Qc Qd Qh Qs 7c 7d 3s 3d 10s 10d 8d 8h Js Jc 5d 5c 2h 2c 3h 3c 10h 10c 6d 6c 
+Total Book Cards for Jane: 13
+It's a tie!

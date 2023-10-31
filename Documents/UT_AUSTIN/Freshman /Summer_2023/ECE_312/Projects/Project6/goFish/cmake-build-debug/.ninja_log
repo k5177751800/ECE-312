@@ -1,0 +1,14 @@
+# ninja log v5
+7	28	1691251647515619718	CMakeFiles/goFish.dir/card_demo.cpp.o	23943ad7ae5c7fd9
+470	503	1691251647990984031	goFish	7697dc4fc1a25c52
+0	65	1697487696702460411	build.ninja	fa431c85d9796294
+7	444	1691251647929073050	CMakeFiles/goFish.dir/deck.cpp.o	6681564ec4dccdaa
+7	415	1691251647900334716	CMakeFiles/goFish.dir/card.cpp.o	2a789476a8b5b341
+7	434	1691251647919257949	CMakeFiles/goFish.dir/player.cpp.o	b865abaf18e93e7e
+7	470	1691251647955315847	CMakeFiles/goFish.dir/go_fish.cpp.o	23283bbd14e2cede
+26	49	1697487700174669238	CMakeFiles/goFish.dir/card_demo.cpp.o	84402f9455aaa5a6
+26	317	1697487700441483452	CMakeFiles/goFish.dir/card.cpp.o	38f6bc8e1f169879
+26	352	1697487700476666506	CMakeFiles/goFish.dir/player.cpp.o	6b0d53533c155a4e
+26	367	1697487700491134522	CMakeFiles/goFish.dir/deck.cpp.o	25e11dac20054c4
+27	391	1697487700516029161	CMakeFiles/goFish.dir/go_fish.cpp.o	7f2d34a220312fb0
+391	425	1697487700551891385	goFish	1f740947a2a9b222

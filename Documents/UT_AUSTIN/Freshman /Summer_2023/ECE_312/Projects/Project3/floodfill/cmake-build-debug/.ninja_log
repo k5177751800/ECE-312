@@ -1,0 +1,8 @@
+# ninja log v5
+1	33	1688233699653131841	CMakeFiles/floodfill.dir/stack312_ll.c.o	55f06529b8c3a79a
+0	34	1688233699654534077	CMakeFiles/floodfill.dir/driver.c.o	4f29d4480dcce4e1
+0	35	1689006446794140114	build.ninja	40355bad50032517
+34	77	1688233699698109984	floodfill	f59d4e78a8fed584
+1	38	1689006448881662224	CMakeFiles/floodfill.dir/stack312_ll.c.o	f055bc4faecffda7
+1	39	1689006448882225972	CMakeFiles/floodfill.dir/driver.c.o	679a4fec2f7a89be
+39	73	1689006448916586737	floodfill	f59d4e78a8fed584
